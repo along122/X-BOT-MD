@@ -13,7 +13,7 @@
     "restart": "pm2 restart XBOT-MD"
   },
   "dependencies": {
-    "baileys": "npm:baileys-pro@latest",
+    "baileys": "github:EdderBot02/bail",
     "axios": "^1.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/scrap": "1.0.1",
